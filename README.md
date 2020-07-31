@@ -13,10 +13,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AlphaError&show_icons=true" alt="AlphaError" />
   </td></tr></table>
 
-## Support Your Fellow Humans <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 🏳️‍🌈 🤎 🏳️‍⚧️
+## Support Fellow Humans <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 🏳️‍🌈 🤎 🏳️‍⚧️
   - 💗 https://linktr.ee/transnormativity
   - 💗 https://linktr.ee/blacklivesmatter
   - 💗 https://linktr.ee/disabilitylinks
-  - 💗 https://linktr.ee/_suprdan_
 
 ⭐️ From [@Kora](https://github.com/AlphaError) :)
