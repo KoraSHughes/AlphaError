@@ -1,5 +1,5 @@
 <!--  hi <3  -->
-# <img src="https://d1fdloi71mui9q.cloudfront.net/wjwQrPRSKqYI76M4yDZy_6fS6WckPmMvMvH6D" width=85 height=87 alt="its me :)"> Hi there👋🏽, I'm 🌸Kora🌸  👩🏽‍💻  <img src="https://media.giphy.com/media/uSGDIb6hP458c/giphy.gif" width=80  align=right>
+# Hi there👋🏽, I'm 🌸Kora🌸  👩🏽‍💻  <img src="https://media.giphy.com/media/uSGDIb6hP458c/giphy.gif" width=80  align=right>
   - 😄 Pronouns: she/her
   - 💬 General Info: I'm a Computer Science major🧠 at NYU Tandon💜; primarily based in NYC🌃. I work in C++, Python, Java, HTML, JavaScript📝, Xcode/Swift, Unreal Engine, and Unity.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm passionate❣️ about helping those less fortunate fiscally, socially, and spiritually in any way possible. 
   - 🔭 I’m currently working on an interface to improve the quality and lower the overall cost of stroke rehabilitation.
