@@ -17,5 +17,5 @@
   - 💗 https://linktr.ee/transnormativity
   - 💗 https://linktr.ee/blacklivesmatter
   - 💗 https://linktr.ee/disabilitylinks
-<br><img src="https://media.giphy.com/media/WRZWkySp8IW2AoDC86/giphy.gif" width=120 align=right><br/>
+<br><img src="https://media.giphy.com/media/WRZWkySp8IW2AoDC86/giphy.gif" width=110 align=right><br/>
 ⭐️ From [@Kora](https://github.com/AlphaError) :)
