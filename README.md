@@ -7,7 +7,7 @@
   
 ## Extra Info: 💁🏽 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">   <img src="https://media.giphy.com/media/vUUAX04g3fto4/giphy.gif" width=165 align=right>
   <table><tr><td valign="top" width="45.71%">
-    <br> - 📫 How to reach me: <a href = "linkedin.com/in/korashughes/"> LinkedIn (KoraSHughes) <a/> or <a href="http://malito:khughes@nyu.edu"> khughes@nyu.edu </a></br>
+    <br> - 📫 How to reach me: <a href = "http://linkedin.com/in/korashughes/"> LinkedIn (KoraSHughes) <a/> or <a href="http://malito:khughes@nyu.edu"> khughes@nyu.edu </a></br>
     - ⚡ Fun fact: I speak English, Español, & 日本語 <img src="https://media.giphy.com/media/CL4ugoXsNnEjK/giphy.gif" width=92 alt="cute catbug">
   </td><td valign="top" width="54.29%">
     <img src="https://github-readme-stats.vercel.app/api?username=AlphaError&show_icons=true" alt="AlphaError" align=right />
